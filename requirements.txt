@@ -1,4 +1,4 @@
-boto
+boto==2.49.0
 mock==2.0.0
 pytest==3.6.2
 boto3==1.7.50
